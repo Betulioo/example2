@@ -308,6 +308,7 @@ main section .column .imagen .marco {
     border: 3px solid var(--colorprincipal);
     transform: rotateZ(10deg);
     transition: 1s;
+    
 }
 
 main section .column .imagen .marco img {
